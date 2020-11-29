@@ -1,17 +1,17 @@
-.container {
+.containerc {
     margin: auto;
     background: #696969;
     
     height: 625px;
     width: 1040px;
   }
-  .row { 
+  .rowc { 
   display: flex;
   margin-top: 50px;
   color: #F5F5DC;
 }
 
-.col {
+.colc {
   flex: 100%;
   text-align:  center;
   vertical-align: baseline;
