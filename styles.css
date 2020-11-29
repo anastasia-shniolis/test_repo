@@ -1,1 +1,34 @@
 
+.container {
+    margin: auto;
+    background: #708090;
+    
+    height: 40px;
+    width: 1040px;
+  }
+  .row { 
+  display: flex;
+  margin-top: 5px;
+  
+}
+
+.col {
+  flex: 100%;
+  text-align:  center;
+  color: #ffff;
+  vertical-align: baseline;
+  margin-top: 10px;
+  
+
+
+}
+.col:hover {
+  flex: 100%;
+  margin-top: 10px;
+  text-align:  center;
+  color: #ffff;
+  
+  text-decoration: underline;
+
+
+}
