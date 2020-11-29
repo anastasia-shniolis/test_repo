@@ -1,8 +1,6 @@
-
 .containerh {
     margin: auto;
     background: #708090;
-    
     height: 40px;
     width: 1040px;
   }
@@ -18,17 +16,32 @@
   color: #ffff;
   vertical-align: baseline;
   margin-top: 10px;
-  
-
-
 }
+
 .colh:hover {
   flex: 100%;
   margin-top: 10px;
   text-align:  center;
   color: #ffff;
-  
+  margin-top: 10px;
   text-decoration: underline;
+}
 
+.containerc {
+    margin: auto;
+    background: #696969;
+    height: 625px;
+    width: 1040px;
+  }
+  .rowc { 
+  display: flex;
+  color: #F5F5DC;
+}
 
+.colc {
+  flex: 100%;
+  text-align:  center;
+  vertical-align: baseline;
+  margin-top: 250px;
+  font-size: 8em;
 }
