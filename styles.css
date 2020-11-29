@@ -1,1 +1,19 @@
+.container {
+    margin: auto;
+    background: #696969;
+    
+    height: 60px;
+    width: 1040px;
+  }
+  .row { 
+  display: flex;
+  color: #F5F5DC;
+}
 
+.col {
+  flex: 100%;
+  text-align:  center;
+  vertical-align: baseline;
+  
+  margin-top: 20px;
+}
